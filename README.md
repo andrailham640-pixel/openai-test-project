@@ -8,7 +8,7 @@ An open-source repository dedicated to exploring, testing, and integrating advan
 
 ## 🛠️ Tech Stack & Tools
 *   **Language:** Python / JavaScript (Node.js)
-*   **AI Engine:** OpenAI API (GPT-4o / Codex)
+*   **AI Engine:** OpenAI API (GPT-5 / Codex)
 *   **Environment:** Open-source collaboration via GitHub
 
 ## 🗺️ Project Roadmap
